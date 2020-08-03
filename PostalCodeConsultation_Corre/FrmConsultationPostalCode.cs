@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PostalCodeConsultation_Corre
 {
-    public partial class Form1 : Form
+    public partial class FrmConsultationPostalCode : Form
     {
-        public Form1()
+        public FrmConsultationPostalCode()
         {
             InitializeComponent();
         }
